@@ -1,4 +1,4 @@
-Src/main.o: ../Src/main.c ../Inc/uart_dma.h \
+Src/uart_dma.o: ../Src/uart_dma.c ../Inc/uart_dma.h \
  C:/Users/naray/OneDrive/Documents/STM\ Workspace/chip_headers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
  C:/Users/naray/OneDrive/Documents/STM\ Workspace/chip_headers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h \
  C:/Users/naray/OneDrive/Documents/STM\ Workspace/chip_headers/CMSIS/Include/core_cm4.h \

@@ -1,6 +1,7 @@
-../Src/uart.c:24:17:compute_divisor	16	static
-../Src/uart.c:29:13:uart_set_baudrate	24	static
-../Src/uart.c:34:6:uart_transmit	16	static
-../Src/uart.c:43:6:uart_receive	4	static
-../Src/uart.c:51:6:uart2_rxtx_init	8	static
-../Src/uart.c:94:5:__io_putchar	16	static
+C:/Users/naray/OneDrive/Documents/STM Workspace/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/uart.c:17:17:compute_divisor	16	static
+../Src/uart.c:22:13:uart_set_baudrate	24	static
+../Src/uart.c:36:6:uart_receive	4	static
+../Src/uart.c:43:6:uart2_rx_interrupt_init	8	static
+../Src/uart.c:82:6:uart2_rxtx_init	8	static
+../Src/uart.c:125:5:__io_putchar	16	static

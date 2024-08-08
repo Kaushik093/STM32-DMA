@@ -1,0 +1,6 @@
+../Inc/uart_transmitter.h:27:17:compute_divisor	1
+../Inc/uart_transmitter.h:32:13:uart_set_baudrate	1
+../Inc/uart_transmitter.h:37:6:uart_transmit	2
+../Inc/uart_transmitter.h:46:6:uart2_tx_init	1
+../Inc/uart_transmitter.h:77:5:__io_putchar	1
+../Src/uart_transmitter.c:8:5:main	1

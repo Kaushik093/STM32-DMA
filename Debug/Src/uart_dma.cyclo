@@ -1,0 +1,5 @@
+C:/Users/naray/OneDrive/Documents/STM Workspace/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/uart_dma.c:25:17:compute_divisor	1
+../Src/uart_dma.c:30:13:uart_set_baudrate	1
+../Src/uart_dma.c:36:6:uart2_tx_init	1
+../Src/uart_dma.c:69:6:dma1_stream6_init	2
